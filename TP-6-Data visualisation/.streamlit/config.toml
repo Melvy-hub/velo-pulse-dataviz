@@ -1,0 +1,9 @@
+# Thème du dashboard : on impose le mode clair pour que les couleurs validées
+# (palette testée sur fond clair) soient toujours celles que voit le lecteur.
+[theme]
+base = "light"
+primaryColor = "#2a78d6"            # bleu = la demande de locations (couleur principale)
+backgroundColor = "#FAF8F5"         # fond crème, plus doux qu'un blanc pur
+secondaryBackgroundColor = "#EFEDEA" # fond de la sidebar et des zones secondaires
+textColor = "#1C1C1C"               # encre principale
+font = "sans serif"

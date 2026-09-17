@@ -1,0 +1,6 @@
+# Dependencies of the Streamlit dashboard (app.py + pages/ + utils.py).
+# Versions are pinned to the ones the dashboard was tested with, so a
+# deployment installs exactly the same environment.
+streamlit==1.41.1   # web app, sidebar filters, pages/, @st.cache_data
+pandas==2.2.3       # CSV loading and aggregations (groupby, melt, pivot, cut)
+altair==5.5.0       # interactive charts (line, heatmap, bars)
