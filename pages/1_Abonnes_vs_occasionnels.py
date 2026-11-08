@@ -6,7 +6,7 @@ Message : les abonnés font les pics des heures de bureau, du lundi au vendredi 
           réguliers et prévisibles, ce qui permet de planifier les tournées.
 
 Visualisation : abonnés vs occasionnels, heure par heure.
-(La carte de chaleur heure × jour a été déplacée sur la page Synthèse, app.py.)
+(La carte de chaleur heure × jour a été déplacée sur la page Synthèse, pages/0_Synthese.py.)
 """
 
 import altair as alt

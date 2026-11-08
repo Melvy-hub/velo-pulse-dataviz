@@ -1,0 +1,7 @@
+# Fichiers que Git doit ignorer dans ce dépôt.
+
+# Cache de bytecode Python : généré automatiquement à chaque import d'un module
+# (ex. utils.py), différent selon la version de Python, et recréé à la demande.
+# Le versionner n'apporte rien et pollue les commits.
+__pycache__/
+*.pyc
